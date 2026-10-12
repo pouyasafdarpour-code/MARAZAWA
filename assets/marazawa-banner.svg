@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="380" viewBox="0 0 1400 380" role="img" aria-labelledby="title desc">
+<title id="title">MARAZAWA</title><desc id="desc">Learning, local communities and meaningful spaces. An editorial banner, not the official logo.</desc>
+<rect width="1400" height="380" fill="#092f2c"/>
+<circle cx="1250" cy="60" r="230" fill="#17443c"/>
+<path d="M1020 380V205l85-62 85 62v175M1190 380V135l72-49 72 49v245" fill="none" stroke="#b2c1a1" stroke-width="2" opacity=".5"/>
+<path d="M40 325H1360" stroke="#a7bba9" opacity=".3"/>
+<rect x="70" y="62" width="70" height="5" fill="#dfb86f"/>
+<text x="70" y="160" fill="#faf7ee" font-family="Arial,sans-serif" font-size="84" font-weight="700" letter-spacing="7">MARAZAWA</text>
+<text x="74" y="217" fill="#dfb86f" font-family="Arial,sans-serif" font-size="24" letter-spacing="2">LEARNING. LOCAL COMMUNITIES. MEANINGFUL SPACES.</text>
+<text x="74" y="292" fill="#b9cbc2" font-family="Arial,sans-serif" font-size="19">ARCHITECTURE / EDUCATION / ENTREPRENEURSHIP / DIGITAL INNOVATION</text>
+</svg>
