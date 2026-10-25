@@ -69,6 +69,8 @@ flowchart TD
 | [فهرست شواهد](docs/EVIDENCE.md) | منابع معرفی و مدارک مورد نیاز |
 | [کتابخانهٔ منابع کسب‌وکار](docs/research/BUSINESS-RESOURCE-LIBRARY-2026-10-25.md) | ۲۸ مرجع منتخب برای کشف فرصت، مدل درآمد، اقتصاد، آزمون و نقشهٔ راه؛ همراه JSON و CSV |
 
+| [مرجع مالی و امکان‌سنجی](docs/research/FINANCE-FEASIBILITY-KNOWLEDGE-2026-10-25.md) | ۳۳ منبع کارآفرینی، طراحی مالی و امکان‌سنجی؛ نگاشت کاربرد و محدودیت حقوق محتوا، همراه JSON و CSV |
+
 ## ارتباط
 
 [marazawa.com](https://marazawa.com) · [Instagram: marazawa_](https://www.instagram.com/marazawa_/) · [Marazawa Academy](https://www.instagram.com/marazawaacademy/)
