@@ -1,0 +1,1076 @@
+{
+  "schema_version": "1.1",
+  "title": "MARAZAWA Entrepreneurship, Finance and Feasibility Reference Registry",
+  "reviewed_on": "2026-10-25",
+  "scope": "public reference links and original editorial summaries; not production engine, prompts, customer data, book mirrors or installed skills",
+  "production_integration": "reference_registry_only; original private editorial rules may be integrated separately; no source full text, training or live data feed",
+  "verification_legend": {
+    "primary_page_reviewed": "Relevant primary publisher page read; not full-course/tool audit",
+    "primary_page_with_access_limit": "Primary description/support reviewed, one associated endpoint limited",
+    "publisher_indexed_excerpt": "Official publisher indexed excerpt seen; direct full content unavailable"
+  },
+  "resources": [
+    {
+      "id": "R01",
+      "name": "Effectuation",
+      "publisher": "UVA Darden / Saras Sarasvathy",
+      "url": "https://www.darden.virginia.edu/effectuation",
+      "stage": [
+        "opportunity"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "معرفی و اصول در وب عمومی‌اند.",
+      "summary_fa": "شروع از توانایی، تجربه و شبکهٔ موجود، همراه با محدودکردن زیان قابل تحمل؛ برای کسی که ایدهٔ آماده ندارد مناسب است.",
+      "practical_output_fa": "فهرست داشته‌های فرد، شریک‌های ممکن و یک قدم کوچک با سقف هزینه.",
+      "limits_fa": "این چارچوب پیش‌بینی قطعی درآمد یا جایگزین آزمون مشتری نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": [
+        "https://effectuation.org/the-five-principles-of-effectuation"
+      ]
+    },
+    {
+      "id": "R02",
+      "name": "The Mom Test",
+      "publisher": "Rob Fitzpatrick",
+      "url": "https://www.momtestbook.com/",
+      "stage": [
+        "discovery"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "معرفی عمومی؛ کتاب و دوره تجاری‌اند.",
+      "summary_fa": "راهنمای گفت‌وگوی مشتری با تمرکز بر رفتار واقعی و دوری از بازخورد تعارفی یا جهت‌دار.",
+      "practical_output_fa": "راهنمای مصاحبه و یادداشت شواهد رفتار و خرید قبلی.",
+      "limits_fa": "خواندن معرفی کتاب جای خواندن کتاب یا اجرای مصاحبه را نمی‌گیرد؛ متن کامل بازنشر نمی‌شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R03",
+      "name": "Customer Development Manifesto",
+      "publisher": "Steve Blank",
+      "url": "https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/",
+      "stage": [
+        "discovery",
+        "validation"
+      ],
+      "audience": [
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "مقالهٔ عمومی نویسنده.",
+      "summary_fa": "طراحی کسب‌وکار به‌عنوان جست‌وجوی فرضیه‌های قابل آزمون و یادگیری از مشتری بیرون از تیم.",
+      "practical_output_fa": "فهرست فرضیات، مشاهدات و تصمیم ادامه یا تغییر.",
+      "limits_fa": "اصول استارتاپی باید به مقیاس و محدودیت کسب‌وکار کوچک ترجمه شوند؛ هر کار فردی نیازمند رشد سرمایه‌پذیر نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R04",
+      "name": "Jobs to Be Done",
+      "publisher": "Christensen Institute",
+      "url": "https://www.christenseninstitute.org/theory/jobs-to-be-done/",
+      "stage": [
+        "discovery"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture",
+        "community"
+      ],
+      "access_fa": "صفحهٔ نظریه و نمونه‌ها عمومی‌اند.",
+      "summary_fa": "شناخت پیشرفتی که فرد در موقعیتی مشخص دنبال می‌کند؛ شامل انگیزه‌های کارکردی، اجتماعی و احساسی.",
+      "practical_output_fa": "شرح موقعیت، نیاز و جایگزین فعلی مشتری.",
+      "limits_fa": "«نیاز» را از حدس نویسنده یا ویژگی جمعیتی نتیجه نگیریم؛ به گفت‌وگو و مشاهده نیاز دارد.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R05",
+      "name": "Design Kit — Methods",
+      "publisher": "IDEO.org",
+      "url": "https://www.designkit.org/methods.html",
+      "stage": [
+        "discovery",
+        "validation",
+        "community"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "community"
+      ],
+      "access_fa": "فهرست روش‌ها عمومی است؛ بعضی امکانات حساب می‌خواهند.",
+      "summary_fa": "روش‌های طراحی انسان‌محور برای گفت‌وگو، تعریف مسئله، ساخت نمونه و کار با مردمی که از راه‌حل استفاده می‌کنند.",
+      "practical_output_fa": "برنامهٔ مشاهده و مصاحبه و نمونهٔ کم‌هزینه برای دریافت بازخورد.",
+      "limits_fa": "استفاده از روش‌ها به معنی تأیید IDEO یا اثبات اثر اجتماعی نیست؛ رضایت و شرایط مشارکت مردم مهم است.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R06",
+      "name": "Business Model Canvas",
+      "publisher": "Strategyzer / Alexander Osterwalder & Yves Pigneur",
+      "url": "https://www.strategyzer.com/library/the-business-model-canvas",
+      "stage": [
+        "business_model"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture",
+        "community"
+      ],
+      "access_fa": "صفحهٔ ابزار عمومی؛ دانلود و خدمات آموزشی ممکن است ثبت‌نام یا پرداخت بخواهند.",
+      "summary_fa": "نقشهٔ یک‌صفحه‌ای رابطهٔ مشتری، ارزش، کانال، منابع، فعالیت‌ها، شرکا، درآمد و هزینه.",
+      "practical_output_fa": "یک نقشهٔ منسجم برای هر مدل پیشنهادی.",
+      "limits_fa": "پرکردن خانه‌ها اثبات تقاضا و سوددهی نیست؛ قالب و پلی‌بوک‌ها را بدون بررسی مجوز کپی نمی‌کنیم.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R07",
+      "name": "Value Proposition Canvas",
+      "publisher": "Strategyzer",
+      "url": "https://www.strategyzer.com/library/the-value-proposition-canvas",
+      "stage": [
+        "discovery",
+        "business_model"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "معرفی ابزار عمومی؛ خدمات و پلی‌بوک‌ها تجاری‌اند.",
+      "summary_fa": "وصل‌کردن کار و مسئلهٔ مشتری به ارزشی که پیشنهاد واقعاً ایجاد می‌کند.",
+      "practical_output_fa": "تعریف مشتری مشخص و پیشنهاد قابل فهم، همراه فرضیهٔ تطابق.",
+      "limits_fa": "تطابق باید با شواهد مشتری سنجیده شود؛ صرف زیبایی فرم، تناسب محصول و بازار را اثبات نمی‌کند.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R08",
+      "name": "Lean Canvas",
+      "publisher": "Ash Maurya / LEANSpark",
+      "url": "https://leanspark.ai/leancanvas",
+      "stage": [
+        "business_model",
+        "validation"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "معرفی عمومی و شروع رایگان؛ قابلیت‌های محصول و دوره‌ها محدودیت یا پلن دارند.",
+      "summary_fa": "چارچوب خلاصه‌کردن مسئله، مشتری، راه‌حل و مفروضات مدل در آغاز کار.",
+      "practical_output_fa": "مدل اولیه و تعیین مهم‌ترین فرضیهٔ نیازمند آزمون.",
+      "limits_fa": "این صفحه یک محصول تجاری هم هست؛ تولید متن با AI را شواهد بازار تلقی نکنیم.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "نشانی قدیمی LeanFoundry به LEANSpark هدایت شد؛ معرفی و وجود پلن‌های تجاری مشاهده شد."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": [
+        "https://www.leanfoundry.com/tools/lean-canvas"
+      ]
+    },
+    {
+      "id": "R09",
+      "name": "Business Model Navigator",
+      "publisher": "Seconds / formerly BMI Lab",
+      "url": "https://businessmodelnavigator.com/",
+      "stage": [
+        "business_model",
+        "revenue"
+      ],
+      "audience": [
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "نمونه‌های عمومی و استفادهٔ محدود؛ دسترسی گسترده تجاری است.",
+      "summary_fa": "مرجع الگوها و مطالعه‌های موردی برای گسترش انتخاب‌های مدل کسب‌وکار، از اشتراک تا فروش مکمل.",
+      "practical_output_fa": "فهرست کوتاه چند مدل درآمد متفاوت که با توان اجرا و مشتری مقایسه شوند.",
+      "limits_fa": "الگوی شرکت موفق را عیناً به بازار دیگر منتقل نکنیم؛ کتاب، کارت‌ها و دیتابیس را آینه‌سازی نمی‌کنیم.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": [
+        "https://www.businessmodelnavigator.com/plans"
+      ]
+    },
+    {
+      "id": "R10",
+      "name": "Testing Business Ideas / Mastering Business Testing",
+      "publisher": "Strategyzer / David Bland & Alex Osterwalder",
+      "url": "https://www.strategyzer.com/training-programs/mastering-business-testing-how-to-design-and-assess-winning-business-models",
+      "stage": [
+        "validation"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture",
+        "community"
+      ],
+      "access_fa": "معرفی و سرفصل عمومی؛ کتاب و دوره پولی‌اند.",
+      "summary_fa": "روش صورت‌بندی فرضیه، طراحی آزمایش و تصمیم‌گیری براساس شواهد.",
+      "practical_output_fa": "برای هر آزمون: فرضیه، روش، معیار قبولی، زمان و سقف هزینه.",
+      "limits_fa": "تعداد آزمایش یا یک نظر مثبت اثبات فروش پایدار نیست؛ بازنشر آزمایش‌های کتاب نیازمند مجوز است.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "لینک‌های قدیمی Test Card و Learning Card به همین دوره منتقل می‌شوند؛ به‌عنوان دو منبع مستقل یا دانلود رایگان شمارش نشدند."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R11",
+      "name": "Disciplined Entrepreneurship — 24 Steps",
+      "publisher": "Bill Aulet / MIT entrepreneurship ecosystem",
+      "url": "https://www.d-eship.com/",
+      "stage": [
+        "roadmap",
+        "business_model",
+        "economics"
+      ],
+      "audience": [
+        "venture",
+        "small_business"
+      ],
+      "access_fa": "منابع عمومی منتخب؛ کتاب، جعبه‌ابزار و دوره‌ها شرایط جدا دارند.",
+      "summary_fa": "مسیر مرحله‌ای برای شناخت مشتری، انتخاب بازار اولیه، پیشنهاد ارزش، مدل کسب‌وکار و اقتصاد جذب مشتری.",
+      "practical_output_fa": "نقشهٔ راه با وابستگی مراحل و سؤالات باز.",
+      "limits_fa": "چارچوب مناسب کسب‌وکار نوآورانه است؛ لازم نیست تمام ۲۴ مرحله به همان شکل روی یک خدمت ساده تحمیل شود.",
+      "verification": {
+        "status": "primary_page_with_access_limit",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "معرفی عمومی و توضیح رسمی MIT بررسی شد؛ واکشی مستقیم فهرست Step Resources در این نوبت با 429 محدود شد."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": [
+        "https://orbit-kb.mit.edu/hc/en-us/articles/360042101632-Where-can-I-find-e-learning-resources-for-Disciplined-Entrepreneurship/",
+        "https://www.d-eship.com/articles/page_category/step-resources/"
+      ]
+    },
+    {
+      "id": "R12",
+      "name": "Start and Improve Your Business — SIYB",
+      "publisher": "International Labour Organization",
+      "url": "https://www.ilo.org/start-and-improve-your-business-siyb",
+      "stage": [
+        "opportunity",
+        "roadmap",
+        "economics"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "community"
+      ],
+      "access_fa": "معرفی و برخی انتشارات عمومی؛ دسترسی به آموزش و بسته‌ها بسته به ارائه‌دهنده متفاوت است.",
+      "summary_fa": "برنامه‌ای برای ساخت ایده، شروع، بهبود و گسترش کسب‌وکارهای خرد و کوچک؛ شامل بازاریابی، هزینه‌یابی و ثبت امور کسب‌وکار.",
+      "practical_output_fa": "طرح شروع و مدیریت روزمره برای خدمت، آموزش، کارگاه یا فروش محصول.",
+      "limits_fa": "دسترسی به معرفی برنامه به معنی نصب محتوا، داشتن مربی تأییدشده یا اجازهٔ بازفروش بسته‌های آموزشی نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R13",
+      "name": "Plan Your Business — startup costs, planning and break-even",
+      "publisher": "U.S. Small Business Administration",
+      "url": "https://www.sba.gov/counseling/plan-your-business/",
+      "stage": [
+        "roadmap",
+        "economics",
+        "market"
+      ],
+      "audience": [
+        "individual",
+        "small_business"
+      ],
+      "access_fa": "راهنما و ابزارهای معرفی‌شده عمومی‌اند.",
+      "summary_fa": "جمع‌بندی برنامهٔ کسب‌وکار، بررسی بازار، هزینه‌های شروع و تحلیل نقطهٔ سربه‌سر.",
+      "practical_output_fa": "بودجهٔ آغاز، تفکیک هزینهٔ ثابت و متغیر و پیش‌نیازهای برنامه.",
+      "limits_fa": "مالیات، مجوز، وام و مقررات این منبع آمریکایی‌اند؛ برای ایران نسخهٔ حقوقی یا مالیاتی آماده نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "نشانی‌های قدیمی calculate-your-startup-costs و write-your-business-plan اکنون به همین صفحهٔ یکپارچه هدایت می‌شوند؛ تکراری شمارش نشدند."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R14",
+      "name": "Pricing a Product",
+      "publisher": "Stripe",
+      "url": "https://stripe.com/resources/more/pricing-a-product",
+      "stage": [
+        "revenue",
+        "economics"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "مقالهٔ عمومی ناشر تجاری.",
+      "summary_fa": "مقایسهٔ منطق قیمت‌گذاری مبتنی بر هزینه، ارزش مشتری و شرایط رقابت.",
+      "practical_output_fa": "چند فرضیهٔ قیمت همراه هزینهٔ تحویل و روش آزمون پذیرش قیمت.",
+      "limits_fa": "این ارجاع برای روش قیمت‌گذاری است، نه توصیهٔ استفاده از درگاه Stripe در ایران؛ دسترسی و مجوز عملیاتی بررسی نشده است.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R15",
+      "name": "SaaS Metrics 2.0",
+      "publisher": "David Skok / forEntrepreneurs",
+      "url": "https://www.forentrepreneurs.com/saas-metrics-2/",
+      "stage": [
+        "economics",
+        "growth"
+      ],
+      "audience": [
+        "subscription",
+        "venture"
+      ],
+      "access_fa": "مقالهٔ مفصل عمومی.",
+      "summary_fa": "درک اقتصاد اشتراک، هزینهٔ جذب، ارزش مشتری و اثر رشد بر جریان نقدی.",
+      "practical_output_fa": "مدل اقتصاد واحد و زمان بازگشت هزینهٔ جذب برای کسب‌وکار اشتراکی.",
+      "limits_fa": "فرمول‌های سادهٔ عمر مشتری به دادهٔ ماندگاری قابل اتکا وابسته‌اند؛ آن‌ها را به کسب‌وکار تک‌خریدی تحمیل نکنیم.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R16",
+      "name": "Margins by Sector — US",
+      "publisher": "Aswath Damodaran / NYU Stern",
+      "url": "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html",
+      "stage": [
+        "economics",
+        "data"
+      ],
+      "audience": [
+        "analyst",
+        "venture"
+      ],
+      "access_fa": "جدول و لینک فایل داده عمومی‌اند؛ شرایط منبع و تأمین‌کنندگان داده باید لحاظ شود.",
+      "summary_fa": "دادهٔ مقایسه‌ای حاشیه سود صنایع برای بررسی معقول‌بودن فرض‌ها.",
+      "practical_output_fa": "مقایسهٔ فرض سود با دامنهٔ مرجع، همراه جغرافیا و تاریخ.",
+      "limits_fa": "نمونه مربوط به شرکت‌ها و صنایع آمریکا و تاریخ تحلیل ژانویهٔ ۲۰۲۶ است؛ معیار مستقیم سود کسب‌وکار خرد ایران نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R17",
+      "name": "The Five Forces",
+      "publisher": "Harvard Business School — Institute for Strategy & Competitiveness",
+      "url": "https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx",
+      "stage": [
+        "strategy",
+        "market"
+      ],
+      "audience": [
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "معرفی چارچوب در صفحهٔ رسمی عمومی است.",
+      "summary_fa": "بررسی رقابت، جایگزین‌ها، تازه‌واردها و قدرت مشتری و تأمین‌کننده.",
+      "practical_output_fa": "تحلیل کوتاه ریسک سودآوری و وابستگی‌های صنعت.",
+      "limits_fa": "چند نام رقیب یا جست‌وجوی عمومی جای تحلیل شواهددار صنعت را نمی‌گیرد.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R18",
+      "name": "A Quickstart Guide to Positioning",
+      "publisher": "April Dunford",
+      "url": "https://www.aprildunford.com/post/a-quickstart-guide-to-positioning",
+      "stage": [
+        "strategy",
+        "go_to_market"
+      ],
+      "audience": [
+        "b2b",
+        "small_business",
+        "venture"
+      ],
+      "access_fa": "مقالهٔ عمومی؛ کتاب و خدمات نویسنده تجاری‌اند.",
+      "summary_fa": "آغاز جایگاه‌یابی از جایگزین‌های مشتری و مزیت مشخص، سپس انتخاب مخاطب و بیان ارزش.",
+      "practical_output_fa": "توضیح روشن اینکه چه کسی چرا این پیشنهاد را به گزینه‌های دیگر ترجیح دهد.",
+      "limits_fa": "تجربهٔ اصلی نویسنده B2B و خریدهای نیازمند بررسی است؛ متن را با زمینهٔ محصول سازگار کنیم.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": [
+        "https://www.aprildunford.com/books"
+      ]
+    },
+    {
+      "id": "R19",
+      "name": "Building Product, Talking to Users, and Growing",
+      "publisher": "Y Combinator / Adora Cheung",
+      "url": "https://www.ycombinator.com/library/dS-how-to-start-a-startup-building-product-talking-to-users-and-growing",
+      "stage": [
+        "validation",
+        "go_to_market"
+      ],
+      "audience": [
+        "venture"
+      ],
+      "access_fa": "درس و معرفی آن در کتابخانهٔ عمومی YC.",
+      "summary_fa": "درس بنیان‌گذار دربارهٔ ساخت محصول، یادگیری از کاربران و شروع رشد.",
+      "practical_output_fa": "برنامهٔ کوچک یادگیری از استفادهٔ واقعی و اصلاح محصول.",
+      "limits_fa": "درس آرشیوی و تجربه‌محور است؛ توصیه‌های رشد سرمایه‌پذیر یا موفقیت گذشته را حکم عمومی همهٔ مشاغل نگیریم.",
+      "verification": {
+        "status": "publisher_indexed_excerpt",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "صفحهٔ رسمی در جست‌وجو با عنوان، مدرس و بخشی از متن قابل تأیید بود؛ واکشی مستقیم متن صفرخطی و صفحهٔ کل کتابخانه بیش‌ازحد بزرگ بود."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R20",
+      "name": "Writing a Business Plan",
+      "publisher": "Sequoia Capital",
+      "url": "https://sequoiacap.com/article/writing-a-business-plan",
+      "stage": [
+        "roadmap",
+        "presentation"
+      ],
+      "audience": [
+        "venture",
+        "small_business"
+      ],
+      "access_fa": "راهنمای عمومی سرمایه‌گذار.",
+      "summary_fa": "ساختار معرفی مسئله، راه‌حل، چرایی زمان، بازار، رقابت، تیم و مدل اقتصادی برای ارائه.",
+      "practical_output_fa": "روایت و ترتیب بخش‌های یک معرفی سرمایه‌گذار یا شریک.",
+      "limits_fa": "طرح ارائه‌شده اثبات کشش بازار نیست و پذیرش سرمایه‌گذار را تضمین نمی‌کند؛ مقاله در ۲۰۱۹ منتشر شده است.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R21",
+      "name": "Scaling to $100 Million",
+      "publisher": "Bessemer Venture Partners",
+      "url": "https://www.bvp.com/atlas/scaling-to-100-million",
+      "stage": [
+        "economics",
+        "growth",
+        "data"
+      ],
+      "audience": [
+        "cloud",
+        "subscription",
+        "venture"
+      ],
+      "access_fa": "مقاله و گزارش معرفی‌شده عمومی‌اند.",
+      "summary_fa": "معیارهای تاریخی کسب‌وکار ابری، از حاشیه سود تا بازگشت هزینهٔ جذب و نگهداشت.",
+      "practical_output_fa": "جدول شاخص رشد و کارایی متناسب با مرحلهٔ یک کسب‌وکار ابری.",
+      "limits_fa": "این داده‌ها مربوط به نمونه و دورهٔ گزارش‌اند؛ معیار روز بازار ایران، تضمین رشد یا هدف اجباری کسب‌وکار غیرابری نیستند.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R22",
+      "name": "RuralInvest",
+      "publisher": "FAO Investment Centre",
+      "url": "https://www.fao.org/investment-centre/solutions/capacity-development-CD4I/ruralinvest/",
+      "stage": [
+        "community",
+        "roadmap",
+        "economics"
+      ],
+      "audience": [
+        "rural",
+        "community",
+        "small_business"
+      ],
+      "access_fa": "FAO آن را ابزار رایگان معرفی می‌کند؛ شرایط دسترسی، آموزش و فایل مشخص جدا بررسی شود.",
+      "summary_fa": "روش مشارکتی تدوین و ارزیابی برنامه‌های سرمایه‌گذاری و کسب‌وکارهای روستایی کوچک و متوسط.",
+      "practical_output_fa": "برنامهٔ اقتصادی پروژهٔ محلی با فعالیت، منابع، هزینه و درآمد.",
+      "limits_fa": "این مرجع جایگزین مطالعهٔ میدانی، مجوز یا طراحی اجرایی بنا نیست؛ ابزار در این تحقیق نصب یا آزمایش نشد.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R23",
+      "name": "COMFAR — feasibility analysis",
+      "publisher": "United Nations Industrial Development Organization",
+      "url": "https://www.unido.org/comfar",
+      "stage": [
+        "community",
+        "economics"
+      ],
+      "audience": [
+        "industrial",
+        "community",
+        "institution"
+      ],
+      "access_fa": "معرفی و روش کلی عمومی؛ نرم‌افزار، آموزش و اخذ آن شرایط و مجوز جدا دارند.",
+      "summary_fa": "ارجاع تخصصی برای ارزیابی مالی و اقتصادی سرمایه‌گذاری‌های صنعتی و غیرصنعتی.",
+      "practical_output_fa": "دامنهٔ مطالعات امکان‌سنجی و فهرست ورودی‌های لازم برای تحلیل تخصصی.",
+      "limits_fa": "در این نوبت محاسبهٔ COMFAR، خرید، نصب یا تأیید گزارش بانکی انجام نشده است؛ کارشناس و ورودی معتبر لازم است.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R24",
+      "name": "DIY Toolkit",
+      "publisher": "Nesta",
+      "url": "https://www.nesta.org.uk/toolkit/diy-toolkit/",
+      "stage": [
+        "community",
+        "discovery",
+        "validation"
+      ],
+      "audience": [
+        "community",
+        "nonprofit",
+        "institution"
+      ],
+      "access_fa": "معرفی و لینک جعبه‌ابزار عمومی‌اند.",
+      "summary_fa": "ابزارهای عملی برای صورت‌بندی، سازگارکردن و آزمودن ایده‌های نوآوری اجتماعی.",
+      "practical_output_fa": "کاربرگ تعریف مسئله، مشارکت و آزمون کوچک خدمت عمومی.",
+      "limits_fa": "اثر اجتماعی را با نیت خوب یا طراحی کاربرگ یکی نگیریم؛ مجوز نسخهٔ فایل پیش از اقتباس بررسی شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R25",
+      "name": "World Development Indicators",
+      "publisher": "World Bank",
+      "url": "https://data.worldbank.org/indicator",
+      "stage": [
+        "market",
+        "data"
+      ],
+      "audience": [
+        "analyst",
+        "community",
+        "venture"
+      ],
+      "access_fa": "فهرست شاخص‌ها عمومی؛ مجوز و شرایط هر مجموعهٔ داده کنترل شود.",
+      "summary_fa": "نقطهٔ شروع دادهٔ زمینه‌ای مانند جمعیت، دسترسی، اقتصاد و توسعهٔ روستایی.",
+      "practical_output_fa": "جدول زمینه با نام شاخص، کشور، سال، واحد و منبع.",
+      "limits_fa": "عدد کلان کشور، تقاضای قابل دسترس یک کسب‌وکار یا روستای مشخص را اثبات نمی‌کند؛ پوشش ایران و سال هر شاخص جدا کنترل شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R26",
+      "name": "Enterprise Surveys",
+      "publisher": "World Bank Group",
+      "url": "https://www.enterprisesurveys.org/en/data",
+      "stage": [
+        "market",
+        "data"
+      ],
+      "audience": [
+        "analyst",
+        "small_business",
+        "institution"
+      ],
+      "access_fa": "شاخص‌ها و فهرست داده عمومی؛ دسترسی به ریزداده می‌تواند حساب و شرایط استفاده بخواهد.",
+      "summary_fa": "پیمایش‌های بنگاه برای زمینهٔ رقابت، تأمین مالی، زیرساخت و عملکرد.",
+      "practical_output_fa": "فرضیات محیط کسب‌وکار با کشور، سال پیمایش و محدودیت نمونه.",
+      "limits_fa": "آخرین پیمایش لزوماً تازه نیست؛ پوشش کشور و بخش غیررسمی متفاوت است و باید پیش از تعمیم بررسی شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R27",
+      "name": "Entrepreneurship — Designing the Business Model",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/entrepreneurship/pages/11-2-designing-the-business-model",
+      "stage": [
+        "foundations",
+        "business_model"
+      ],
+      "audience": [
+        "individual",
+        "small_business",
+        "learner"
+      ],
+      "access_fa": "متن فصل در وب عمومی است.",
+      "summary_fa": "آموزش پایهٔ تفاوت مدل و برنامهٔ کسب‌وکار و معرفی بوم‌های متعارف و اجتماعی.",
+      "practical_output_fa": "تعریف‌های ساده و واژه‌نامهٔ قابل فهم برای مخاطب تازه‌کار.",
+      "limits_fa": "فصل به محتوای دارای CC BY 4.0 اشاره می‌کند؛ حقوق تصویر، اقتباس و نسخهٔ منتخب جدا بررسی شود. معرفی اینجا اجازهٔ بازنشر همهٔ دارایی‌ها نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "متن معرفی یا بخش مرتبط در صفحهٔ ناشر بررسی شد؛ تمام کتاب، دوره یا ابزار ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R28",
+      "name": "IRIS+ Catalog of Metrics",
+      "publisher": "Global Impact Investing Network — GIIN",
+      "url": "https://iris.thegiin.org/metrics/",
+      "stage": [
+        "impact",
+        "data"
+      ],
+      "audience": [
+        "community",
+        "nonprofit",
+        "institution"
+      ],
+      "access_fa": "کاتالوگ عمومی معرفی شده؛ شرایط دانلود و استفاده کنترل شود.",
+      "summary_fa": "مرجع تعریف شاخص برای سنجش و مدیریت اثر اجتماعی و محیطی.",
+      "practical_output_fa": "انتخاب چند شاخص مرتبط با تعریف، مبنا، زمان سنجش و مسئول ثبت.",
+      "limits_fa": "انتخاب شاخص به معنی تأیید GIIN، گواهی یا اثبات اثر نیست؛ ارتباط شاخص با پروژه باید روشن باشد.",
+      "verification": {
+        "status": "publisher_indexed_excerpt",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "عنوان و محتوای کاتالوگ در نتیجهٔ رسمی ناشر مشاهده شد؛ واکشی مستقیم در این نوبت با robots.txt محدود بود. پیش از اقتباس، بررسی مجدد لازم است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "notes_fa": "دسترسی عمومی به معنی اجازهٔ کپی کتاب، قالب، داده یا نرم‌افزار نیست؛ حقوق نسخهٔ مشخص جداگانه بررسی شود.",
+        "commercial_ai_ingestion": "not_authorized_by_catalog"
+      },
+      "production_status": "reference_only",
+      "related_urls": []
+    },
+    {
+      "id": "R29",
+      "name": "Principles of Finance",
+      "publisher": "OpenStax",
+      "url": "https://openstax.org/books/principles-finance/pages/1-2-the-role-of-finance-in-an-organization",
+      "stage": [
+        "finance",
+        "cash-flow"
+      ],
+      "audience": [
+        "learner",
+        "analyst"
+      ],
+      "access_fa": "صفحهٔ اصلی مرتبط بررسی شد؛ دسترسی کامل، مجوز بازنشر یا استفادهٔ تجاری از این بررسی نتیجه نمی‌شود.",
+      "summary_fa": "معرفی برنامه‌ریزی مالی، صورت‌های مالی و تفاوت بودجه با پیش‌بینی.",
+      "practical_output_fa": "نقشهٔ آموزش مالی؛ مراجعهٔ انسانی به منبع.",
+      "limits_fa": "متن این کتاب طبق صفحهٔ بررسی‌شده برای ورود به LLM/محصول مولد و استفادهٔ تجاری نیازمند اجازه است؛ وارد موتور نمی‌شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "بخش مرتبط صفحه خوانده شد؛ کل کتاب، دوره یا دیتابیس ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "commercial_ai_ingestion": "not_authorized_by_catalog",
+        "notes_fa": "متن این کتاب طبق صفحهٔ بررسی‌شده برای ورود به LLM/محصول مولد و استفادهٔ تجاری نیازمند اجازه است؛ وارد موتور نمی‌شود."
+      },
+      "production_status": "reference_only_permission_required",
+      "related_urls": []
+    },
+    {
+      "id": "R30",
+      "name": "Entrepreneurial Finance — 15.431",
+      "publisher": "MIT OpenCourseWare / Antoinette Schoar",
+      "url": "https://ocw.mit.edu/courses/15-431-entrepreneurial-finance-spring-2011/",
+      "stage": [
+        "finance",
+        "fundraising"
+      ],
+      "audience": [
+        "venture",
+        "founder"
+      ],
+      "access_fa": "صفحهٔ اصلی مرتبط بررسی شد؛ دسترسی کامل، مجوز بازنشر یا استفادهٔ تجاری از این بررسی نتیجه نمی‌شود.",
+      "summary_fa": "دورهٔ تأمین مالی مراحل آغازین، ارزش‌گذاری و ساختار سرمایه‌گذاری.",
+      "practical_output_fa": "مسیر مطالعهٔ زمان و مقدار تأمین مالی و انتخاب سرمایه‌گذار.",
+      "limits_fa": "دوره مربوط به ۲۰۱۱ و متمرکز بر شرکت‌های نوپای فناورانه است؛ نرخ یا قرارداد روز ایران نیست. مجوز پیوندشده CC BY-NC-SA 4.0 است؛ محتوای دوره وارد محصول تجاری نمی‌شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "بخش مرتبط صفحه خوانده شد؛ کل کتاب، دوره یا دیتابیس ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "commercial_ai_ingestion": "not_authorized_by_catalog",
+        "notes_fa": "دوره مربوط به ۲۰۱۱ و متمرکز بر شرکت‌های نوپای فناورانه است؛ نرخ یا قرارداد روز ایران نیست. مجوز پیوندشده CC BY-NC-SA 4.0 است؛ محتوای دوره وارد محصول تجاری نمی‌شود."
+      },
+      "production_status": "reference_only_noncommercial_content",
+      "related_urls": []
+    },
+    {
+      "id": "R31",
+      "name": "The Green Book — 2026",
+      "publisher": "HM Treasury",
+      "url": "https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026",
+      "stage": [
+        "feasibility",
+        "impact",
+        "risk"
+      ],
+      "audience": [
+        "institution",
+        "community",
+        "analyst"
+      ],
+      "access_fa": "صفحهٔ اصلی مرتبط بررسی شد؛ دسترسی کامل، مجوز بازنشر یا استفادهٔ تجاری از این بررسی نتیجه نمی‌شود.",
+      "summary_fa": "ارزیابی گزینه‌های پروژهٔ عمومی، عدم‌قطعیت و توزیع هزینه و منفعت.",
+      "practical_output_fa": "مقایسهٔ ادامهٔ وضع موجود، احیا و ساخت؛ آزمون حساسیت فرض‌ها.",
+      "limits_fa": "ارزیابی منفعت اجتماعی با سود مالی متفاوت است. نرخ تنزیل و قواعد بریتانیا نباید خودکار به ایران منتقل شوند؛ شرایط OGL و استثناها رعایت شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "بخش مرتبط صفحه خوانده شد؛ کل کتاب، دوره یا دیتابیس ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "commercial_ai_ingestion": "not_authorized_by_catalog",
+        "notes_fa": "ارزیابی منفعت اجتماعی با سود مالی متفاوت است. نرخ تنزیل و قواعد بریتانیا نباید خودکار به ایران منتقل شوند؛ شرایط OGL و استثناها رعایت شود."
+      },
+      "production_status": "reference_only_original_editorial_application",
+      "related_urls": []
+    },
+    {
+      "id": "R32",
+      "name": "Assessing Project Feasibility and Economic Viability",
+      "publisher": "World Bank PPP Resource Center",
+      "url": "https://ppp.worldbank.org/assessing-project-feasibility-and-economic-viability",
+      "stage": [
+        "feasibility",
+        "project-finance"
+      ],
+      "audience": [
+        "institution",
+        "community",
+        "analyst"
+      ],
+      "access_fa": "صفحهٔ اصلی مرتبط بررسی شد؛ دسترسی کامل، مجوز بازنشر یا استفادهٔ تجاری از این بررسی نتیجه نمی‌شود.",
+      "summary_fa": "تمایز امکان‌پذیری پروژه، توجیه اقتصادی و ارزیابی مالی، همراه هزینهٔ چرخهٔ عمر.",
+      "practical_output_fa": "فهرست بررسی دامنه، تقاضا، سرمایه‌گذاری، بهره‌برداری، نگهداری و ریسک.",
+      "limits_fa": "مخاطب اصلی پروژهٔ عمومی/PPP است؛ نقل روش به پروژهٔ کوچک نیازمند تناسب مقیاس است. ارجاع به بانک جهانی تأیید یا تأمین مالی پروژه نیست.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "بخش مرتبط صفحه خوانده شد؛ کل کتاب، دوره یا دیتابیس ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "commercial_ai_ingestion": "not_authorized_by_catalog",
+        "notes_fa": "مخاطب اصلی پروژهٔ عمومی/PPP است؛ نقل روش به پروژهٔ کوچک نیازمند تناسب مقیاس است. ارجاع به بانک جهانی تأیید یا تأمین مالی پروژه نیست."
+      },
+      "production_status": "reference_only_original_editorial_application",
+      "related_urls": []
+    },
+    {
+      "id": "R33",
+      "name": "IMF Data — current portal",
+      "publisher": "International Monetary Fund",
+      "url": "https://www.imf.org/en/Data",
+      "stage": [
+        "data",
+        "macroeconomics",
+        "risk"
+      ],
+      "audience": [
+        "analyst",
+        "venture"
+      ],
+      "access_fa": "صفحهٔ اصلی مرتبط بررسی شد؛ دسترسی کامل، مجوز بازنشر یا استفادهٔ تجاری از این بررسی نتیجه نمی‌شود.",
+      "summary_fa": "درگاه یافتن داده‌های کلان اقتصادی و مالی، از جمله قیمت‌ها و حساب‌های ملی.",
+      "practical_output_fa": "ثبت کشور، شاخص، واحد، دوره، تاریخ انتشار و وضعیت برآورد برای هر فرض کلان.",
+      "limits_fa": "آمار کلان به معنی تقاضای واقعی محله یا قیمت روز بازار ایران نیست. داده‌ای در این انتشار واکشی یا APIای متصل نشده؛ دسترسی و حقوق هر مجموعه جدا بررسی شود.",
+      "verification": {
+        "status": "primary_page_reviewed",
+        "reviewed_on": "2026-10-25",
+        "notes_fa": "بخش مرتبط صفحه خوانده شد؛ کل کتاب، دوره یا دیتابیس ممیزی نشده است."
+      },
+      "rights": {
+        "storage_mode": "link_and_original_summary_only",
+        "redistribution_license": "not_granted_by_this_registry",
+        "commercial_ai_ingestion": "not_authorized_by_catalog",
+        "notes_fa": "آمار کلان به معنی تقاضای واقعی محله یا قیمت روز بازار ایران نیست. داده‌ای در این انتشار واکشی یا APIای متصل نشده؛ دسترسی و حقوق هر مجموعه جدا بررسی شود."
+      },
+      "production_status": "reference_only_no_data_feed",
+      "related_urls": []
+    }
+  ],
+  "update_notes_fa": "۲۸ رکورد قبلی حفظ و ۵ مرجع مالی/امکان‌سنجی اضافه شدند. بررسی این دور فقط مربوط به ۵ منبع تازه است. نگاشت عملی و وضعیت نصب در سند همراه توضیح داده می‌شود."
+}
