@@ -1,0 +1,68 @@
+id,name,publisher,url,stages,verification,limits_fa
+
+R01,Effectuation,UVA Darden / Saras Sarasvathy,https://www.darden.virginia.edu/effectuation,opportunity,primary_page_reviewed,این چارچوب پیش‌بینی قطعی درآمد یا جایگزین آزمون مشتری نیست.
+
+R02,The Mom Test,Rob Fitzpatrick,https://www.momtestbook.com/,discovery,primary_page_reviewed,خواندن معرفی کتاب جای خواندن کتاب یا اجرای مصاحبه را نمی‌گیرد؛ متن کامل بازنشر نمی‌شود.
+
+R03,Customer Development Manifesto,Steve Blank,https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/,discovery;validation,primary_page_reviewed,اصول استارتاپی باید به مقیاس و محدودیت کسب‌وکار کوچک ترجمه شوند؛ هر کار فردی نیازمند رشد سرمایه‌پذیر نیست.
+
+R04,Jobs to Be Done,Christensen Institute,https://www.christenseninstitute.org/theory/jobs-to-be-done/,discovery,primary_page_reviewed,«نیاز» را از حدس نویسنده یا ویژگی جمعیتی نتیجه نگیریم؛ به گفت‌وگو و مشاهده نیاز دارد.
+
+R05,Design Kit — Methods,IDEO.org,https://www.designkit.org/methods.html,discovery;validation;community,primary_page_reviewed,استفاده از روش‌ها به معنی تأیید IDEO یا اثبات اثر اجتماعی نیست؛ رضایت و شرایط مشارکت مردم مهم است.
+
+R06,Business Model Canvas,Strategyzer / Alexander Osterwalder & Yves Pigneur,https://www.strategyzer.com/library/the-business-model-canvas,business_model,primary_page_reviewed,پرکردن خانه‌ها اثبات تقاضا و سوددهی نیست؛ قالب و پلی‌بوک‌ها را بدون بررسی مجوز کپی نمی‌کنیم.
+
+R07,Value Proposition Canvas,Strategyzer,https://www.strategyzer.com/library/the-value-proposition-canvas,discovery;business_model,primary_page_reviewed,تطابق باید با شواهد مشتری سنجیده شود؛ صرف زیبایی فرم، تناسب محصول و بازار را اثبات نمی‌کند.
+
+R08,Lean Canvas,Ash Maurya / LEANSpark,https://leanspark.ai/leancanvas,business_model;validation,primary_page_reviewed,این صفحه یک محصول تجاری هم هست؛ تولید متن با AI را شواهد بازار تلقی نکنیم.
+
+R09,Business Model Navigator,Seconds / formerly BMI Lab,https://businessmodelnavigator.com/,business_model;revenue,primary_page_reviewed,الگوی شرکت موفق را عیناً به بازار دیگر منتقل نکنیم؛ کتاب، کارت‌ها و دیتابیس را آینه‌سازی نمی‌کنیم.
+
+R10,Testing Business Ideas / Mastering Business Testing,Strategyzer / David Bland & Alex Osterwalder,https://www.strategyzer.com/training-programs/mastering-business-testing-how-to-design-and-assess-winning-business-models,validation,primary_page_reviewed,تعداد آزمایش یا یک نظر مثبت اثبات فروش پایدار نیست؛ بازنشر آزمایش‌های کتاب نیازمند مجوز است.
+
+R11,Disciplined Entrepreneurship — 24 Steps,Bill Aulet / MIT entrepreneurship ecosystem,https://www.d-eship.com/,roadmap;business_model;economics,primary_page_with_access_limit,چارچوب مناسب کسب‌وکار نوآورانه است؛ لازم نیست تمام ۲۴ مرحله به همان شکل روی یک خدمت ساده تحمیل شود.
+
+R12,Start and Improve Your Business — SIYB,International Labour Organization,https://www.ilo.org/start-and-improve-your-business-siyb,opportunity;roadmap;economics,primary_page_reviewed,دسترسی به معرفی برنامه به معنی نصب محتوا، داشتن مربی تأییدشده یا اجازهٔ بازفروش بسته‌های آموزشی نیست.
+
+R13,"Plan Your Business — startup costs, planning and break-even",U.S. Small Business Administration,https://www.sba.gov/counseling/plan-your-business/,roadmap;economics;market,primary_page_reviewed,مالیات، مجوز، وام و مقررات این منبع آمریکایی‌اند؛ برای ایران نسخهٔ حقوقی یا مالیاتی آماده نیست.
+
+R14,Pricing a Product,Stripe,https://stripe.com/resources/more/pricing-a-product,revenue;economics,primary_page_reviewed,این ارجاع برای روش قیمت‌گذاری است، نه توصیهٔ استفاده از درگاه Stripe در ایران؛ دسترسی و مجوز عملیاتی بررسی نشده است.
+
+R15,SaaS Metrics 2.0,David Skok / forEntrepreneurs,https://www.forentrepreneurs.com/saas-metrics-2/,economics;growth,primary_page_reviewed,فرمول‌های سادهٔ عمر مشتری به دادهٔ ماندگاری قابل اتکا وابسته‌اند؛ آن‌ها را به کسب‌وکار تک‌خریدی تحمیل نکنیم.
+
+R16,Margins by Sector — US,Aswath Damodaran / NYU Stern,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/margin.html,economics;data,primary_page_reviewed,نمونه مربوط به شرکت‌ها و صنایع آمریکا و تاریخ تحلیل ژانویهٔ ۲۰۲۶ است؛ معیار مستقیم سود کسب‌وکار خرد ایران نیست.
+
+R17,The Five Forces,Harvard Business School — Institute for Strategy & Competitiveness,https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-five-forces.aspx,strategy;market,primary_page_reviewed,چند نام رقیب یا جست‌وجوی عمومی جای تحلیل شواهددار صنعت را نمی‌گیرد.
+
+R18,A Quickstart Guide to Positioning,April Dunford,https://www.aprildunford.com/post/a-quickstart-guide-to-positioning,strategy;go_to_market,primary_page_reviewed,تجربهٔ اصلی نویسنده B2B و خریدهای نیازمند بررسی است؛ متن را با زمینهٔ محصول سازگار کنیم.
+
+R19,"Building Product, Talking to Users, and Growing",Y Combinator / Adora Cheung,https://www.ycombinator.com/library/dS-how-to-start-a-startup-building-product-talking-to-users-and-growing,validation;go_to_market,publisher_indexed_excerpt,درس آرشیوی و تجربه‌محور است؛ توصیه‌های رشد سرمایه‌پذیر یا موفقیت گذشته را حکم عمومی همهٔ مشاغل نگیریم.
+
+R20,Writing a Business Plan,Sequoia Capital,https://sequoiacap.com/article/writing-a-business-plan,roadmap;presentation,primary_page_reviewed,طرح ارائه‌شده اثبات کشش بازار نیست و پذیرش سرمایه‌گذار را تضمین نمی‌کند؛ مقاله در ۲۰۱۹ منتشر شده است.
+
+R21,Scaling to $100 Million,Bessemer Venture Partners,https://www.bvp.com/atlas/scaling-to-100-million,economics;growth;data,primary_page_reviewed,این داده‌ها مربوط به نمونه و دورهٔ گزارش‌اند؛ معیار روز بازار ایران، تضمین رشد یا هدف اجباری کسب‌وکار غیرابری نیستند.
+
+R22,RuralInvest,FAO Investment Centre,https://www.fao.org/investment-centre/solutions/capacity-development-CD4I/ruralinvest/,community;roadmap;economics,primary_page_reviewed,این مرجع جایگزین مطالعهٔ میدانی، مجوز یا طراحی اجرایی بنا نیست؛ ابزار در این تحقیق نصب یا آزمایش نشد.
+
+R23,COMFAR — feasibility analysis,United Nations Industrial Development Organization,https://www.unido.org/comfar,community;economics,primary_page_reviewed,در این نوبت محاسبهٔ COMFAR، خرید، نصب یا تأیید گزارش بانکی انجام نشده است؛ کارشناس و ورودی معتبر لازم است.
+
+R24,DIY Toolkit,Nesta,https://www.nesta.org.uk/toolkit/diy-toolkit/,community;discovery;validation,primary_page_reviewed,اثر اجتماعی را با نیت خوب یا طراحی کاربرگ یکی نگیریم؛ مجوز نسخهٔ فایل پیش از اقتباس بررسی شود.
+
+R25,World Development Indicators,World Bank,https://data.worldbank.org/indicator,market;data,primary_page_reviewed,عدد کلان کشور، تقاضای قابل دسترس یک کسب‌وکار یا روستای مشخص را اثبات نمی‌کند؛ پوشش ایران و سال هر شاخص جدا کنترل شود.
+
+R26,Enterprise Surveys,World Bank Group,https://www.enterprisesurveys.org/en/data,market;data,primary_page_reviewed,آخرین پیمایش لزوماً تازه نیست؛ پوشش کشور و بخش غیررسمی متفاوت است و باید پیش از تعمیم بررسی شود.
+
+R27,Entrepreneurship — Designing the Business Model,OpenStax,https://openstax.org/books/entrepreneurship/pages/11-2-designing-the-business-model,foundations;business_model,primary_page_reviewed,فصل به محتوای دارای CC BY 4.0 اشاره می‌کند؛ حقوق تصویر، اقتباس و نسخهٔ منتخب جدا بررسی شود. معرفی اینجا اجازهٔ بازنشر همهٔ دارایی‌ها نیست.
+
+R28,IRIS+ Catalog of Metrics,Global Impact Investing Network — GIIN,https://iris.thegiin.org/metrics/,impact;data,publisher_indexed_excerpt,انتخاب شاخص به معنی تأیید GIIN، گواهی یا اثبات اثر نیست؛ ارتباط شاخص با پروژه باید روشن باشد.
+
+R29,Principles of Finance,OpenStax,https://openstax.org/books/principles-finance/pages/1-2-the-role-of-finance-in-an-organization,finance;cash-flow,primary_page_reviewed,متن این کتاب طبق صفحهٔ بررسی‌شده برای ورود به LLM/محصول مولد و استفادهٔ تجاری نیازمند اجازه است؛ وارد موتور نمی‌شود.
+
+R30,Entrepreneurial Finance — 15.431,MIT OpenCourseWare / Antoinette Schoar,https://ocw.mit.edu/courses/15-431-entrepreneurial-finance-spring-2011/,finance;fundraising,primary_page_reviewed,دوره مربوط به ۲۰۱۱ و متمرکز بر شرکت‌های نوپای فناورانه است؛ نرخ یا قرارداد روز ایران نیست. مجوز پیوندشده CC BY-NC-SA 4.0 است؛ محتوای دوره وارد محصول تجاری نمی‌شود.
+
+R31,The Green Book — 2026,HM Treasury,https://www.gov.uk/government/publications/the-green-book--2/the-green-book-2026,feasibility;impact;risk,primary_page_reviewed,ارزیابی منفعت اجتماعی با سود مالی متفاوت است. نرخ تنزیل و قواعد بریتانیا نباید خودکار به ایران منتقل شوند؛ شرایط OGL و استثناها رعایت شود.
+
+R32,Assessing Project Feasibility and Economic Viability,World Bank PPP Resource Center,https://ppp.worldbank.org/assessing-project-feasibility-and-economic-viability,feasibility;project-finance,primary_page_reviewed,مخاطب اصلی پروژهٔ عمومی/PPP است؛ نقل روش به پروژهٔ کوچک نیازمند تناسب مقیاس است. ارجاع به بانک جهانی تأیید یا تأمین مالی پروژه نیست.
+
+R33,IMF Data — current portal,International Monetary Fund,https://www.imf.org/en/Data,data;macroeconomics;risk,primary_page_reviewed,آمار کلان به معنی تقاضای واقعی محله یا قیمت روز بازار ایران نیست. داده‌ای در این انتشار واکشی یا APIای متصل نشده؛ دسترسی و حقوق هر مجموعه جدا بررسی شود.
+
