@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FOUND-01",
+    "title": "UN 2030 Agenda",
+    "publisher": "United Nations",
+    "url": "https://sdgs.un.org/2030agenda",
+    "use_fa": "چارچوب هدف‌های توسعه و پیوند ابعاد اجتماعی، اقتصادی و محیطی.",
+    "limits_fa": "چارچوب سیاستی است؛ جایگزین شناخت نیاز محلی یا مقررات ایران نیست.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-02",
+    "title": "AR6 WGIII — Chapter 9: Buildings",
+    "publisher": "IPCC",
+    "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/",
+    "use_fa": "نقطهٔ شروع مرور ادبیات کاهش انتشار در ساختمان و ارجاع به پژوهش‌های پایه.",
+    "limits_fa": "صفحه در نتایج رسمی بازیابی شد؛ بازکردن مستقیم این نوبت با 403 مواجه شد. متن کامل در این کار خوانده نشده است.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-03",
+    "title": "Global Status Report for Buildings and Construction 2025–2026",
+    "publisher": "UNEP / GlobalABC",
+    "url": "https://wedocs.unep.org/entities/publication/dd0a1d99-dba3-46da-93ab-ef2a26fc3c14",
+    "use_fa": "نمای کلی وضعیت جهانی بخش ساختمان، سیاست و مسیر کاهش انتشار.",
+    "limits_fa": "مجوز درج‌شده CC BY-NC-ND 3.0 IGO است؛ متن یا تصاویر گزارش وارد محصول تجاری نشده‌اند.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-04",
+    "title": "International Guidelines on Urban and Territorial Planning",
+    "publisher": "UN-Habitat",
+    "url": "https://unhabitat.org/international-guidelines-on-urban-and-territorial-planning",
+    "use_fa": "مرجع برنامه‌ریزی فضایی و توجه به دسترسی، شمول و ارتباط سکونتگاه‌ها؛ صفحه، نسخهٔ فارسی را نیز فهرست می‌کند.",
+    "limits_fa": "راهنمای بین‌المللی است؛ استعلام و طرح مصوب محلی همچنان لازم‌اند.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-05",
+    "title": "Urban-rural Linkages: Guiding Principles",
+    "publisher": "UN-Habitat",
+    "url": "https://unhabitat.org/urban-rural-linkages-guiding-principles",
+    "use_fa": "بررسی پیوند خدمات، اقتصاد و حکمرانی شهر و روستا.",
+    "limits_fa": "به‌جای نگاه جزیره‌ای به یک بنا، روابط منطقه‌ای بررسی شوند؛ دادهٔ واقعی باید محلی تهیه شود.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-06",
+    "title": "Level(s): A quick introduction",
+    "publisher": "European Commission",
+    "url": "https://green-forum.ec.europa.eu/green-business/levels/quick-introduction-levels_en",
+    "use_fa": "نقشهٔ شاخص‌های چرخهٔ عمر: کربن، منابع، آب، سلامت، تاب‌آوری و هزینه.",
+    "limits_fa": "چارچوب اروپایی است؛ به معنی گواهی ساختمان یا انطباق با ضوابط ایران نیست.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-07",
+    "title": "Energy Efficiency 2025 — Buildings",
+    "publisher": "IEA",
+    "url": "https://www.iea.org/reports/energy-efficiency-2025/buildings",
+    "use_fa": "مرور سیاست‌ها و موضوعات بهره‌وری انرژی ساختمان و بهسازی موجودی بنا.",
+    "limits_fa": "آمار جهانی جای قبض، اقلیم و اندازه‌گیری پروژه را نمی‌گیرد؛ متن صفحه مجوز CC BY 4.0 ذکر می‌کند.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-08",
+    "title": "Breakthrough Agenda Report 2025 — Building",
+    "publisher": "IEA",
+    "url": "https://www.iea.org/reports/breakthrough-agenda-report-2025/building",
+    "use_fa": "بررسی جهت‌گیری گذار بخش ساختمان و موانع هزینه و اجرا.",
+    "limits_fa": "روند سیاستی است؛ قیمت یا توجیه مالی پروژهٔ روستایی ایران از آن استخراج نشده است.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-09",
+    "title": "RuralInvest",
+    "publisher": "FAO Investment Centre",
+    "url": "https://www.fao.org/investment-centre/solutions/capacity-development-CD4I/ruralinvest/en",
+    "use_fa": "روش مشارکتی برای تهیه و بررسی طرح سرمایه‌گذاری روستایی.",
+    "limits_fa": "روش، نرم‌افزار و دوره باید مطابق شرایط استفادهٔ خود منبع به کار روند؛ هیچ قرارداد یا تأمین مالی ادعا نمی‌شود.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-10",
+    "title": "Building Criteria: Passive House, EnerPHit, PHI Low Energy Building",
+    "publisher": "Passive House Institute",
+    "url": "https://passivehouse.com/en/home/building-certification/",
+    "use_fa": "مرجع رسمی معیارهای ساختمان کم‌مصرف و بهسازی انرژی.",
+    "limits_fa": "فقط نسخهٔ رسمی و جاری مبناست؛ ارجاع، گواهی یا مجوز استفاده از نشان ایجاد نمی‌کند.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-11",
+    "title": "Recommendation on the Historic Urban Landscape",
+    "publisher": "UNESCO",
+    "url": "https://www.unesco.org/en/legal-affairs/recommendation-historic-urban-landscape-including-glossary-definitions",
+    "use_fa": "شناخت لایه‌های فرهنگی و اجتماعی پیش از مداخله در محیط تاریخی.",
+    "limits_fa": "سند سیاستی است؛ وضعیت میراث و مجوز هر محل باید جدا بررسی شود.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  },
+  {
+    "id": "FOUND-12",
+    "title": "IUCN Global Standard for Nature-based Solutions",
+    "publisher": "IUCN",
+    "url": "https://iucn.org/our-work/topic/iucn-global-standard-nature-based-solutions",
+    "use_fa": "مرجع طراحی، ارزیابی و پایش راهکارهای مبتنی بر طبیعت.",
+    "limits_fa": "ملاک‌ها و نسخهٔ جاری منبع باید در زمان کاربرد دوباره بررسی شوند؛ برچسب سبز کافی نیست.",
+    "checked": "2026-10-27",
+    "full_text_archived": false
+  }
+]

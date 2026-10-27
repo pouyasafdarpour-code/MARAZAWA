@@ -1,0 +1,259 @@
+{
+  "unique_articles": 3199,
+  "foundations": 12,
+  "retrieved_at": "2026-10-27T04:24:18.517316+00:00",
+  "parts": [
+    {
+      "topic": "sustainable-development",
+      "label_fa": "توسعهٔ پایدار",
+      "topic_references": 58,
+      "primary_records": 55,
+      "path": "data/sustainable-development.json"
+    },
+    {
+      "topic": "rural-development",
+      "label_fa": "توسعهٔ روستایی پایدار",
+      "topic_references": 97,
+      "primary_records": 97,
+      "path": "data/rural-development.json"
+    },
+    {
+      "topic": "community-participation",
+      "label_fa": "مشارکت و طراحی با مردم",
+      "topic_references": 93,
+      "primary_records": 93,
+      "path": "data/community-participation.json"
+    },
+    {
+      "topic": "sustainable-livelihoods",
+      "label_fa": "معیشت و اقتصاد محلی",
+      "topic_references": 98,
+      "primary_records": 95,
+      "path": "data/sustainable-livelihoods.json"
+    },
+    {
+      "topic": "social-sustainability",
+      "label_fa": "عدالت و پایداری اجتماعی",
+      "topic_references": 22,
+      "primary_records": 22,
+      "path": "data/social-sustainability.json"
+    },
+    {
+      "topic": "sustainable-architecture",
+      "label_fa": "معماری پایدار",
+      "topic_references": 93,
+      "primary_records": 91,
+      "path": "data/sustainable-architecture.json"
+    },
+    {
+      "topic": "vernacular-architecture",
+      "label_fa": "معماری بومی و اقلیمی",
+      "topic_references": 88,
+      "primary_records": 88,
+      "path": "data/vernacular-architecture.json"
+    },
+    {
+      "topic": "iran-architecture",
+      "label_fa": "معماری و اقلیم ایران",
+      "topic_references": 42,
+      "primary_records": 42,
+      "path": "data/iran-architecture.json"
+    },
+    {
+      "topic": "passive-design",
+      "label_fa": "طراحی غیرفعال و اقلیم",
+      "topic_references": 100,
+      "primary_records": 98,
+      "path": "data/passive-design.json"
+    },
+    {
+      "topic": "thermal-comfort",
+      "label_fa": "آسایش حرارتی",
+      "topic_references": 99,
+      "primary_records": 97,
+      "path": "data/thermal-comfort.json"
+    },
+    {
+      "topic": "natural-ventilation",
+      "label_fa": "تهویهٔ طبیعی",
+      "topic_references": 89,
+      "primary_records": 88,
+      "path": "data/natural-ventilation.json"
+    },
+    {
+      "topic": "daylight",
+      "label_fa": "نور روز و روشنایی",
+      "topic_references": 97,
+      "primary_records": 97,
+      "path": "data/daylight.json"
+    },
+    {
+      "topic": "building-energy",
+      "label_fa": "انرژی ساختمان",
+      "topic_references": 98,
+      "primary_records": 98,
+      "path": "data/building-energy.json"
+    },
+    {
+      "topic": "net-zero",
+      "label_fa": "ساختمان کم‌مصرف و صفرخالص",
+      "topic_references": 93,
+      "primary_records": 93,
+      "path": "data/net-zero.json"
+    },
+    {
+      "topic": "retrofit",
+      "label_fa": "بهسازی انرژی و احیای بنا",
+      "topic_references": 100,
+      "primary_records": 96,
+      "path": "data/retrofit.json"
+    },
+    {
+      "topic": "adaptive-reuse",
+      "label_fa": "بازاستفادهٔ تطبیقی",
+      "topic_references": 92,
+      "primary_records": 92,
+      "path": "data/adaptive-reuse.json"
+    },
+    {
+      "topic": "life-cycle-assessment",
+      "label_fa": "ارزیابی چرخهٔ عمر",
+      "topic_references": 97,
+      "primary_records": 91,
+      "path": "data/life-cycle-assessment.json"
+    },
+    {
+      "topic": "embodied-carbon",
+      "label_fa": "کربن نهفته",
+      "topic_references": 101,
+      "primary_records": 101,
+      "path": "data/embodied-carbon.json"
+    },
+    {
+      "topic": "circular-construction",
+      "label_fa": "ساخت‌وساز چرخشی",
+      "topic_references": 101,
+      "primary_records": 101,
+      "path": "data/circular-construction.json"
+    },
+    {
+      "topic": "construction-waste",
+      "label_fa": "پسماند و بازیافت ساختمانی",
+      "topic_references": 98,
+      "primary_records": 97,
+      "path": "data/construction-waste.json"
+    },
+    {
+      "topic": "earth-materials",
+      "label_fa": "خاک و مصالح بومی",
+      "topic_references": 98,
+      "primary_records": 98,
+      "path": "data/earth-materials.json"
+    },
+    {
+      "topic": "timber-bamboo",
+      "label_fa": "چوب و بامبو",
+      "topic_references": 89,
+      "primary_records": 88,
+      "path": "data/timber-bamboo.json"
+    },
+    {
+      "topic": "low-carbon-materials",
+      "label_fa": "مصالح کم‌کربن",
+      "topic_references": 92,
+      "primary_records": 90,
+      "path": "data/low-carbon-materials.json"
+    },
+    {
+      "topic": "water",
+      "label_fa": "آب و بازچرخانی",
+      "topic_references": 93,
+      "primary_records": 92,
+      "path": "data/water.json"
+    },
+    {
+      "topic": "green-roofs",
+      "label_fa": "بام و جدارهٔ سبز",
+      "topic_references": 88,
+      "primary_records": 88,
+      "path": "data/green-roofs.json"
+    },
+    {
+      "topic": "nature-based",
+      "label_fa": "راهکارهای مبتنی بر طبیعت",
+      "topic_references": 101,
+      "primary_records": 100,
+      "path": "data/nature-based.json"
+    },
+    {
+      "topic": "urban-heat",
+      "label_fa": "گرما و سایه در سکونتگاه",
+      "topic_references": 98,
+      "primary_records": 98,
+      "path": "data/urban-heat.json"
+    },
+    {
+      "topic": "climate-resilience",
+      "label_fa": "تاب‌آوری اقلیمی بنا و سکونتگاه",
+      "topic_references": 88,
+      "primary_records": 88,
+      "path": "data/climate-resilience.json"
+    },
+    {
+      "topic": "healthy-buildings",
+      "label_fa": "سلامت و کیفیت محیط داخلی",
+      "topic_references": 97,
+      "primary_records": 97,
+      "path": "data/healthy-buildings.json"
+    },
+    {
+      "topic": "affordable-housing",
+      "label_fa": "مسکن استطاعت‌پذیر و پایدار",
+      "topic_references": 92,
+      "primary_records": 92,
+      "path": "data/affordable-housing.json"
+    },
+    {
+      "topic": "building-economics",
+      "label_fa": "هزینهٔ چرخهٔ عمر و توجیه اقتصادی",
+      "topic_references": 62,
+      "primary_records": 62,
+      "path": "data/building-economics.json"
+    },
+    {
+      "topic": "post-occupancy",
+      "label_fa": "ارزیابی پس از بهره‌برداری",
+      "topic_references": 93,
+      "primary_records": 92,
+      "path": "data/post-occupancy.json"
+    },
+    {
+      "topic": "renewable-energy",
+      "label_fa": "انرژی تجدیدپذیر محلی",
+      "topic_references": 103,
+      "primary_records": 103,
+      "path": "data/renewable-energy.json"
+    },
+    {
+      "topic": "sustainable-mobility",
+      "label_fa": "دسترسی و جابه‌جایی پایدار",
+      "topic_references": 91,
+      "primary_records": 91,
+      "path": "data/sustainable-mobility.json"
+    },
+    {
+      "topic": "cultural-heritage",
+      "label_fa": "میراث و بازآفرینی پایدار",
+      "topic_references": 100,
+      "primary_records": 99,
+      "path": "data/cultural-heritage.json"
+    },
+    {
+      "topic": "sdg-measurement",
+      "label_fa": "سنجش و شاخص‌های توسعه",
+      "topic_references": 89,
+      "primary_records": 89,
+      "path": "data/sdg-measurement.json"
+    }
+  ]
+}

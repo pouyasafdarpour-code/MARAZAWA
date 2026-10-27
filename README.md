@@ -71,6 +71,8 @@ flowchart TD
 
 | [مرجع مالی و امکان‌سنجی](docs/research/FINANCE-FEASIBILITY-KNOWLEDGE-2026-10-25.md) | ۳۳ منبع کارآفرینی، طراحی مالی و امکان‌سنجی؛ نگاشت کاربرد و محدودیت حقوق محتوا، همراه JSON و CSV |
 
+| [کتابخانهٔ توسعه و معماری پایدار](docs/research/sustainability-architecture/README.md) | ۳٬۱۹۹ مقالهٔ DOIدار یکتا در ۳۶ شاخه + ۱۲ مرجع رسمی؛ همراه دادهٔ موضوعی، روش و گزارش ممیزی |
+
 ## ارتباط
 
 [marazawa.com](https://marazawa.com) · [Instagram: marazawa_](https://www.instagram.com/marazawa_/) · [Marazawa Academy](https://www.instagram.com/marazawaacademy/)
