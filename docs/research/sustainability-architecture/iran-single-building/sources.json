@@ -1,0 +1,163 @@
+{
+  "version": "2026-10-30",
+  "scope": "single-building within local development; bibliographic decision support, not production retrieval",
+  "records": [
+    {
+      "id": "IR01",
+      "title": "مباحث مقررات ملی ساختمان",
+      "publisher": "دفتر مقررات ملی و کنترل ساختمان",
+      "url": "https://inbr.ir/?page_id=5825",
+      "review_level": "مرجع رسمی ایران / نمایه",
+      "use": "کنترل مسیر دریافت مباحث مرتبط با ایمنی، مصالح، انرژی و نگهداری.",
+      "limits": "نمایه و پیوندها بررسی شدند؛ متن همهٔ مباحث و آخرین اصلاحیه‌ها ممیزی نشده‌اند. نسخهٔ لازم‌الاجرا باید برای همان محل، کاربری و تاریخ توسط متخصص تعیین شود.",
+      "decision": "ایمنی و ضوابط",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "IR02",
+      "title": "دستور کار و راهنمای ارزیابی ایمنی و بهسازی ساختمان‌های موجود",
+      "publisher": "دفتر مقررات ملی و کنترل ساختمان",
+      "url": "https://inbr.ir/دستور-کار-و-راهنمای-ارزیابی-ایمنی-و-بهس/",
+      "review_level": "مرجع رسمی ایران / صفحهٔ انتشار",
+      "use": "قبل از احیا، مسیر سفارش ارزیابی فنیِ بنای موجود را روشن می‌کند.",
+      "limits": "عنوان و صفحهٔ انتشار بررسی شد، نه محتوای پیوست. قدمت، عکس یا سالم‌بودن ظاهری، تأیید ایمنی نیست.",
+      "decision": "احیای بنا",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "IR03",
+      "title": "مسکن و محیط روستا",
+      "publisher": "نشریهٔ علمی / مؤسسه پژوهشی سوانح طبیعی",
+      "url": "https://jhre.ir/",
+      "review_level": "پژوهش فارسی / درگاه ناشر",
+      "use": "پیداکردن پژوهش‌های زمینه‌مند دربارهٔ معماری و برنامه‌ریزی روستایی، فناوری بومی و بازسازی.",
+      "limits": "معرفی و دامنهٔ نشریه بررسی شده؛ همهٔ مقاله‌ها خوانده نشده‌اند. روش، نمونه، تاریخ و قابلیت انتقال هر مقاله باید جدا ارزیابی شود.",
+      "decision": "پژوهش بومی",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "IR04",
+      "title": "منظر فرهنگی هورامان/اورامانات",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1647/",
+      "review_level": "ایران / پروندهٔ رسمی میراث",
+      "use": "مطالعهٔ رابطهٔ شیب، سکونت، تراس، معیشت و فصل در اورامانات.",
+      "limits": "پروندهٔ زمینه‌ای است، نه نقشهٔ اجرایی. تعمیم به تمام روستاهای کرمانشاه یا نسبت‌دادن پروژهٔ مارازاوا به محدودهٔ ثبت بدون تطبیق مکانی مجاز نیست.",
+      "decision": "زمینهٔ مکانی",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "IR05",
+      "title": "شهر تاریخی یزد",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1544/",
+      "review_level": "ایران / پروندهٔ رسمی میراث",
+      "use": "شناخت پیوند معماری خاکی، آب و زندگی در محیط خشک.",
+      "limits": "نمونهٔ شهری است؛ شکل بادگیر یا حیاط نسخهٔ آماده برای بلوچستان یا هر اقلیم دیگری نیست.",
+      "decision": "اقلیم و فرهنگ",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "IR06",
+      "title": "Local seismic culture in Iranian vernacular architecture: evidence from Yazd earthen architecture",
+      "publisher": "Hamed Azizi-Bondarabadi; Neda Haji Sadeghi / Built Heritage, 2022",
+      "url": "https://doi.org/10.1186/s43238-022-00051-3",
+      "review_level": "مقالهٔ پژوهشی / صفحه و چکیدهٔ ناشر",
+      "use": "مسیر مطالعهٔ دانش بنایان محلی و فرهنگ ساخت لرزه‌ای در معماری خاکی یزد.",
+      "limits": "فقط صفحه، چکیده و روش معرفی‌شده بررسی شدند؛ مقاله تأیید ایمنی بنای دیگری نیست و جزئیات آن بدون بررسی مهندسی منتقل نمی‌شوند.",
+      "decision": "دانش محلی و خطر",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL01",
+      "title": "Charter on the Built Vernacular Heritage",
+      "publisher": "ICOMOS / CIAV",
+      "url": "https://ciav.icomos.org/charter-on-the-built-vernacular-herigage-english/",
+      "review_level": "منشور / صفحهٔ مرجع تخصصی",
+      "use": "درگاه مطالعهٔ اصول حفاظت از میراث بومی ساخته‌شده.",
+      "limits": "این نوبت در حد صفحهٔ معرفی بررسی شد؛ متن منشور ممیزی کامل نشده است. حفاظت باید با زندگی امروز و ضوابط محل جمع شود.",
+      "decision": "هویت و حفاظت",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL02",
+      "title": "Earthen Architectures, Constructive Cultures and Sustainable Development",
+      "publisher": "CRAterre / UNESCO Chair",
+      "url": "https://craterre.org/en/partenaires/chaire-unesco/",
+      "review_level": "مرکز پژوهش و آموزش / معرفی رسمی",
+      "use": "مسیر مطالعه و آموزش دربارهٔ خاک، فرهنگ ساخت و پایداری.",
+      "limits": "صفحهٔ معرفی کرسی بررسی شد؛ گواهی یا دستور ساخت صادر نمی‌کند. محلی‌بودن مصالح به‌تنهایی ایمنی یا کم‌کربن‌بودن را ثابت نمی‌کند.",
+      "decision": "مصالح و مهارت",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL03",
+      "title": "RuralInvest — Module 3: Detailed Project Formulation and Analysis",
+      "publisher": "FAO",
+      "url": "https://www.fao.org/4/a1421e/a1421e00.htm",
+      "review_level": "راهنمای سرمایه‌گذاری / فهرست فصل‌ها",
+      "use": "مسیر مطالعهٔ تقاضا، انتخاب فناوری، محیط، هزینه، تأمین مالی و بهره‌برداری پروژهٔ کوچک روستایی.",
+      "limits": "نمایه و فهرست فصل‌ها بررسی شد، نه کل کتاب. منبع قدیمی است؛ قیمت و مقررات امروز را تعیین نمی‌کند. صفحه برای بازتولید تجاری اجازهٔ کتبی می‌خواهد؛ متن کپی نشده است.",
+      "decision": "خدمت و اقتصاد",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL04",
+      "title": "A quick introduction to Level(s)",
+      "publisher": "European Commission",
+      "url": "https://green-forum.ec.europa.eu/green-business/levels/quick-introduction-levels_en",
+      "review_level": "چارچوب عملکرد / صفحهٔ معرفی",
+      "use": "چک‌کردن ابعاد انرژی، مصالح و پسماند، آب، سلامت، تاب‌آوری و هزینهٔ چرخهٔ عمر.",
+      "limits": "چارچوب اروپایی است؛ نه گواهی پروژه و نه جایگزین ضوابط ایران. هیچ امتیاز عملکردی بدون داده محاسبه نشده است.",
+      "decision": "چرخهٔ عمر",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL05",
+      "title": "WHO Housing and health guidelines",
+      "publisher": "World Health Organization, 2018",
+      "url": "https://www.who.int/publications/i/item/9789241550376",
+      "review_level": "راهنمای سلامت / مرور رسمی",
+      "use": "توجه به دمای داخل، آسیب، دسترس‌پذیری و مواجهه‌های ناسالم.",
+      "limits": "موضوع اصلی مسکن است؛ برای کتابخانه، طویله یا فضای ورزشی، ضوابط اختصاصی همان کاربری لازم است. کل متن و پیوست‌ها خوانده نشده‌اند.",
+      "decision": "سلامت و شمول",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL06",
+      "title": "Majara Complex and Community Redevelopment",
+      "publisher": "Aga Khan Award for Architecture / AKDN",
+      "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/majara-complex-and-community-redevelopment",
+      "review_level": "ایران / مطالعهٔ موردی رسمی",
+      "use": "نمونهٔ مطالعهٔ پیوند پروژهٔ معماری با منابع، مهارت و بازآفرینی محلی در هرمز.",
+      "limits": "روایت یک پروژه است، نه مطالعهٔ مقایسه‌ای اثربخشی یا اثبات سودآوری. فرم، هزینه یا فناوری آن نسخهٔ عمومی برای مارازاوا نیست.",
+      "decision": "فرایند و اجرا",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    },
+    {
+      "id": "GL07",
+      "title": "POWER Data Methodology",
+      "publisher": "NASA POWER",
+      "url": "https://power.larc.nasa.gov/docs/methodology/",
+      "review_level": "مستند روش دادهٔ اقلیمی",
+      "use": "شناخت منشأ، مقیاس و عدم قطعیت داده‌های هواشناسی و تابش برای مطالعهٔ اولیه.",
+      "limits": "دادهٔ شبکه‌ای جای برداشت خرداقلیم، ایستگاه محلی یا خطرنگاری زمین را نمی‌گیرد. در این نوبت هیچ مختصات مشتری ارسال یا دادهٔ پروژه‌ای دریافت نشده است.",
+      "decision": "دادهٔ اقلیمی",
+      "verified_on": "2026-10-30",
+      "storage": "original annotation and link only; no source full text or images"
+    }
+  ]
+}
+
