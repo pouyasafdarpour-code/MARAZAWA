@@ -1,0 +1,270 @@
+{
+  "actualCostsKnown": false,
+  "priceToman": 1500000,
+  "ruralCashPercent": 20,
+  "scenarios": [
+    {
+      "days": 30,
+      "orders": 600,
+      "hybridFraction": 0,
+      "cashToman": 900000000,
+      "ruralAllocationToman": 180000000,
+      "remainderBeforeCostsToman": 720000000,
+      "ASSUMED_directCostToman": 120000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 600000000,
+      "startingCreditStockNeededCoins": 0,
+      "newlyIssuedCoins": 6000,
+      "redeemedCoins": 0,
+      "closingCoinsIfStartingStockEqualsRedemptions": 6000,
+      "closingServiceFaceValueToman": 600000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 30,
+      "orders": 600,
+      "hybridFraction": 0.25,
+      "cashToman": 750000000,
+      "ruralAllocationToman": 150000000,
+      "remainderBeforeCostsToman": 600000000,
+      "ASSUMED_directCostToman": 120000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 480000000,
+      "startingCreditStockNeededCoins": 1500,
+      "newlyIssuedCoins": 4950,
+      "redeemedCoins": 1500,
+      "closingCoinsIfStartingStockEqualsRedemptions": 4950,
+      "closingServiceFaceValueToman": 495000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 30,
+      "orders": 600,
+      "hybridFraction": 0.5,
+      "cashToman": 600000000,
+      "ruralAllocationToman": 120000000,
+      "remainderBeforeCostsToman": 480000000,
+      "ASSUMED_directCostToman": 120000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 360000000,
+      "startingCreditStockNeededCoins": 3000,
+      "newlyIssuedCoins": 3900,
+      "redeemedCoins": 3000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 3900,
+      "closingServiceFaceValueToman": 390000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 30,
+      "orders": 600,
+      "hybridFraction": 1,
+      "cashToman": 300000000,
+      "ruralAllocationToman": 60000000,
+      "remainderBeforeCostsToman": 240000000,
+      "ASSUMED_directCostToman": 120000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 120000000,
+      "startingCreditStockNeededCoins": 6000,
+      "newlyIssuedCoins": 1800,
+      "redeemedCoins": 6000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 1800,
+      "closingServiceFaceValueToman": 180000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 90,
+      "orders": 1800,
+      "hybridFraction": 0,
+      "cashToman": 2700000000,
+      "ruralAllocationToman": 540000000,
+      "remainderBeforeCostsToman": 2160000000,
+      "ASSUMED_directCostToman": 360000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 1800000000,
+      "startingCreditStockNeededCoins": 0,
+      "newlyIssuedCoins": 18000,
+      "redeemedCoins": 0,
+      "closingCoinsIfStartingStockEqualsRedemptions": 18000,
+      "closingServiceFaceValueToman": 1800000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 90,
+      "orders": 1800,
+      "hybridFraction": 0.25,
+      "cashToman": 2250000000,
+      "ruralAllocationToman": 450000000,
+      "remainderBeforeCostsToman": 1800000000,
+      "ASSUMED_directCostToman": 360000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 1440000000,
+      "startingCreditStockNeededCoins": 4500,
+      "newlyIssuedCoins": 14850,
+      "redeemedCoins": 4500,
+      "closingCoinsIfStartingStockEqualsRedemptions": 14850,
+      "closingServiceFaceValueToman": 1485000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 90,
+      "orders": 1800,
+      "hybridFraction": 0.5,
+      "cashToman": 1800000000,
+      "ruralAllocationToman": 360000000,
+      "remainderBeforeCostsToman": 1440000000,
+      "ASSUMED_directCostToman": 360000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 1080000000,
+      "startingCreditStockNeededCoins": 9000,
+      "newlyIssuedCoins": 11700,
+      "redeemedCoins": 9000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 11700,
+      "closingServiceFaceValueToman": 1170000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 90,
+      "orders": 1800,
+      "hybridFraction": 1,
+      "cashToman": 900000000,
+      "ruralAllocationToman": 180000000,
+      "remainderBeforeCostsToman": 720000000,
+      "ASSUMED_directCostToman": 360000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 360000000,
+      "startingCreditStockNeededCoins": 18000,
+      "newlyIssuedCoins": 5400,
+      "redeemedCoins": 18000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 5400,
+      "closingServiceFaceValueToman": 540000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 180,
+      "orders": 3600,
+      "hybridFraction": 0,
+      "cashToman": 5400000000,
+      "ruralAllocationToman": 1080000000,
+      "remainderBeforeCostsToman": 4320000000,
+      "ASSUMED_directCostToman": 720000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 3600000000,
+      "startingCreditStockNeededCoins": 0,
+      "newlyIssuedCoins": 36000,
+      "redeemedCoins": 0,
+      "closingCoinsIfStartingStockEqualsRedemptions": 36000,
+      "closingServiceFaceValueToman": 3600000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 180,
+      "orders": 3600,
+      "hybridFraction": 0.25,
+      "cashToman": 4500000000,
+      "ruralAllocationToman": 900000000,
+      "remainderBeforeCostsToman": 3600000000,
+      "ASSUMED_directCostToman": 720000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 2880000000,
+      "startingCreditStockNeededCoins": 9000,
+      "newlyIssuedCoins": 29700,
+      "redeemedCoins": 9000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 29700,
+      "closingServiceFaceValueToman": 2970000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 180,
+      "orders": 3600,
+      "hybridFraction": 0.5,
+      "cashToman": 3600000000,
+      "ruralAllocationToman": 720000000,
+      "remainderBeforeCostsToman": 2880000000,
+      "ASSUMED_directCostToman": 720000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 2160000000,
+      "startingCreditStockNeededCoins": 18000,
+      "newlyIssuedCoins": 23400,
+      "redeemedCoins": 18000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 23400,
+      "closingServiceFaceValueToman": 2340000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "days": 180,
+      "orders": 3600,
+      "hybridFraction": 1,
+      "cashToman": 1800000000,
+      "ruralAllocationToman": 360000000,
+      "remainderBeforeCostsToman": 1440000000,
+      "ASSUMED_directCostToman": 720000000,
+      "contributionBeforeFixedTaxSupportRefundToman": 720000000,
+      "startingCreditStockNeededCoins": 36000,
+      "newlyIssuedCoins": 10800,
+      "redeemedCoins": 36000,
+      "closingCoinsIfStartingStockEqualsRedemptions": 10800,
+      "closingServiceFaceValueToman": 1080000000,
+      "assumptions": [
+        "200000 toman per business package is an assumption, not measured cost",
+        "Hybrid redemptions require existing opening credit stock; not possible for a new account",
+        "No revenue from unredeemed coin face value; no blockchain-token valuation included",
+        "Rural concept generation, fees, support, tax, refunds and fixed costs excluded"
+      ]
+    },
+    {
+      "name": "Rural redemption stress case",
+      "days": 30,
+      "businessOrders": 600,
+      "ruralDesigns": 300,
+      "productionTasks": 900,
+      "capacityAt20PerDay": 600,
+      "minimumProductionDays": 45,
+      "ASSUMED_ruralDesignCostToman": 60000000,
+      "note": "At 20 combined tasks/day, business sales of 20/day plus redemptions create a growing queue. Increase measured capacity or quote longer delivery times."
+    }
+  ]
+}
