@@ -1,0 +1,267 @@
+{
+  "name": "MARAZAWA Sustainable Value Creation Framework",
+  "version": "0.1-review",
+  "date": "2026-11-26",
+  "status": "Proposed framework; no university endorsement or partnership claimed",
+  "sources": [
+    {
+      "id": "sdg",
+      "publisher": "UN DESA",
+      "title": "The 17 Sustainable Development Goals",
+      "url": "https://sdgs.un.org/goals",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "social",
+      "publisher": "OECD",
+      "title": "Recommendation on the Social and Solidarity Economy and Social Innovation",
+      "url": "https://legalinstruments.oecd.org/en/instruments/oecd-legal-0472",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "circular",
+      "publisher": "Ellen MacArthur Foundation",
+      "title": "Circular economy: overview and principles",
+      "url": "https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "csv",
+      "publisher": "Harvard Business School, Institute for Strategy and Competitiveness",
+      "title": "Creating Shared Value",
+      "url": "https://www.isc.hbs.edu/creating-shared-value/Pages/default.aspx",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "place",
+      "publisher": "OECD",
+      "title": "Design of effective place-based policies",
+      "url": "https://www.oecd.org/en/publications/place-based-policies-for-the-future_e5ff6716-en/full-report/design-of-effective-place-based-policies_f466c99a.html",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "abcd",
+      "publisher": "ABCD Institute / John McKnight",
+      "title": "Asset-Based Community Development Methodology",
+      "url": "https://resources.depaul.edu/abcd-institute/publications/Documents/ABCD%20Methodology%20Insures%20and%20Evidence-Based%20Initiative%20by%20John%20McKnight%20Evaluation.pdf",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "design",
+      "publisher": "Design Council",
+      "title": "Framework for Innovation",
+      "url": "https://www.designcouncil.org.uk/resources/framework-for-innovation",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "toc",
+      "publisher": "UN ESCAP",
+      "title": "How to prepare a Theory of Change?",
+      "url": "https://ssc-connector.escap.un.org/monitoring/theory-of-change",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "behavior",
+      "publisher": "OECD",
+      "title": "Tools and Ethics for Applied Behavioural Insights: The BASIC Toolkit",
+      "url": "https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en/full-report.html",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "materials",
+      "publisher": "UNEP",
+      "title": "Building Materials and the Climate: Constructing a New Future",
+      "url": "https://wedocs.unep.org/handle/20.500.11822/43293",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "risk",
+      "publisher": "UNDRR",
+      "title": "Sendai Framework for Disaster Risk Reduction 2015–2030",
+      "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "rbc",
+      "publisher": "OECD",
+      "title": "Due Diligence Guidance for Responsible Business Conduct",
+      "url": "https://www.oecd.org/en/publications/oecd-due-diligence-guidance-for-responsible-business-conduct_15f5f4b3-en.html",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    },
+    {
+      "id": "access",
+      "publisher": "W3C",
+      "title": "Web Content Accessibility Guidelines 2.2",
+      "url": "https://www.w3.org/TR/WCAG22/",
+      "verifiedOn": "2026-11-26",
+      "access": "Link and metadata only; no copyrighted full text archived"
+    }
+  ],
+  "axes": [
+    {
+      "title": "اهداف توسعه پایدار",
+      "source": "sdg",
+      "definition": "اهداف مشترک برای پیوند اقتصاد، جامعه و محیط",
+      "application": "انتخاب هدف متناسب با مسئله، نه افزودن هر ۱۷ نشان",
+      "metric": "شاخص پایه، هدف و تاریخ اندازه‌گیری",
+      "limitation": "هم‌راستایی، تأیید سازمان ملل یا اثر محقق‌شده نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "اقتصاد اجتماعی و همبستگی",
+      "source": "social",
+      "definition": "سازمان‌دهی فعالیت اقتصادی با توجه به منفعت جمعی",
+      "application": "ثبت نقش مردم و نهاد مسئول بهره‌برداری",
+      "metric": "سهم تصمیم‌گیری جامعه و تداوم خدمت",
+      "limitation": "شکل حقوقی و قواعد محلی باید جداگانه بررسی شوند.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "اقتصاد چرخشی",
+      "source": "circular",
+      "definition": "کاهش اتلاف و نگهداشت ارزش مواد و محصولات",
+      "application": "اولویت احیای بنا، تعمیر و تأمین قطعه",
+      "metric": "هزینه نگهداری و مقدار ماده قابل استفاده مجدد",
+      "limitation": "بومی یا بازیافتی بودن به تنهایی ایمنی یا پایداری را ثابت نمی‌کند.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "ارزش مشترک",
+      "source": "csv",
+      "definition": "بررسی ارتباط منفعت اقتصادی و اجتماعی",
+      "application": "ارزیابی اینکه پیشنهاد فروش چگونه مسئله واقعی را حل می‌کند",
+      "metric": "حاشیه مشارکت همراه با نتیجه اجتماعی قابل سنجش",
+      "limitation": "این تفسیر مارازاواست؛ تخصیص پول به تنهایی اثبات ارزش مشترک نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "کارآفرینی پایدار",
+      "source": "sdg",
+      "definition": "بررسی هم‌زمان دوام اقتصادی و پیامد اجتماعی و محیطی",
+      "application": "آزمون مشتری، هزینه واقعی و آثار منفی محتمل",
+      "metric": "اولین فروش واقعی، هزینه خدمت و پیامد ناخواسته",
+      "limitation": "فرض درآمدی با درآمد تحقق‌یافته متفاوت است.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "توسعه مکان‌محور",
+      "source": "place",
+      "definition": "پاسخ متناسب با ویژگی و نهادهای هر مکان",
+      "application": "ثبت اقلیم، مسیر دسترسی و ظرفیت نگهداری",
+      "metric": "دسترسی به خدمت و استمرار بهره‌برداری",
+      "limitation": "نسخه یک روستا نباید بدون بررسی به روستای دیگر تعمیم داده شود.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "توسعه بر پایه دارایی‌ها",
+      "source": "abcd",
+      "definition": "شروع از مهارت، رابطه و توان موجود مردم",
+      "application": "نقشه مهارت‌ها و فضاهای قابل احیا",
+      "metric": "مشارکت داوطلبانه و منابع محلی واقعاً در دسترس",
+      "limitation": "تمرکز بر ظرفیت نباید فقر یا محدودیت ساختاری را نادیده بگیرد.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "توسعه درون‌زا",
+      "source": "place",
+      "definition": "تقویت توان و اختیار محلی در کنار منابع بیرونی",
+      "application": "ثبت مالک، بهره‌بردار و تصمیم‌گیر محلی",
+      "metric": "توان اداره مستقل و سهم تأمین محلی",
+      "limitation": "حمایت بیرونی می‌تواند لازم باشد؛ خودکفایی فرض نمی‌شود.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "طراحی مشارکتی",
+      "source": "design",
+      "definition": "فهم مسئله با افراد متأثر و آزمودن راه‌حل",
+      "application": "مصاحبه، انتخاب اولویت و بازبینی نمونه در محل",
+      "metric": "تنوع مشارکت‌کنندگان و اصلاحات پس از بازخورد",
+      "limitation": "چند مصاحبه لزوماً نمایندگی همه مردم نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "نوآوری اجتماعی",
+      "source": "social",
+      "definition": "آزمودن شیوه تازه برای پاسخ به نیاز اجتماعی",
+      "application": "اجرای پایلوت کوچک پیش از تعهد ساخت",
+      "metric": "استفاده واقعی، رضایت و امکان تداوم",
+      "limitation": "تازگی ایده تضمین اثر یا امکان اجرا نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "نظریه تغییر",
+      "source": "toc",
+      "definition": "توضیح زنجیره فرضی منابع تا پیامد",
+      "application": "ثبت منابع، فعالیت، خروجی، پیامد، فرض و ریسک",
+      "metric": "شاخص جدا برای خروجی و پیامد",
+      "limitation": "رابطه علت و معلولی بدون طراحی ارزیابی اثبات نمی‌شود.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "سنجش اثر",
+      "source": "toc",
+      "definition": "بررسی تغییر با شواهد و ملاحظات انتساب",
+      "application": "خط مبنا، زمان پیگیری، منبع داده و محدودیت",
+      "metric": "ساعت خدمت، دسترسی و تغییر مشاهده‌شده",
+      "limitation": "تعداد طرح تولیدشده، اثر اجتماعی تحقق‌یافته نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "اقتصاد رفتاری و پاداش",
+      "source": "behavior",
+      "definition": "آزمون شفاف اثر مشوق بر انتخاب آزاد",
+      "application": "اعتبار اختیاری، رضایت و امکان انتخاب مصرف شخصی",
+      "metric": "درک شرایط و نرخ مصرف واقعی، نه صرفاً کلیک",
+      "limitation": "نباید فشار احساسی، فوریت ساختگی یا هزینه پنهان ایجاد شود.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "معماری اقلیمی و پایدار",
+      "source": "materials",
+      "definition": "پاسخ به اقلیم، ماده و چرخه عمر بنا",
+      "application": "اولویت سایه، تهویه، تعمیرپذیری و مصالح قابل تأمین",
+      "metric": "هزینه چرخه عمر، آسایش و داده مصرف",
+      "limitation": "طرح مفهومی جای بررسی سازه، ایمنی، مجوز و طراحی اجرایی نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "تاب‌آوری",
+      "source": "risk",
+      "definition": "شناخت ریسک و حفظ خدمت هنگام اختلال",
+      "application": "ثبت خطر، برنامه نگهداری و مسیر جایگزین خدمت",
+      "metric": "زمان بازیابی و کاهش آسیب‌پذیری",
+      "limitation": "فقدان اطلاعات خطر به معنای نبود خطر نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "مسئولیت اجتماعی",
+      "source": "rbc",
+      "definition": "رسیدگی به آثار فعالیت و پاسخ‌گویی",
+      "application": "ثبت تخصیص، انتقال و هزینه‌کرد جداگانه با سند",
+      "metric": "مبالغ مستند و شکایت رسیدگی‌شده",
+      "limitation": "گزارش تخصیص، گزارش هزینه‌کرد یا سود حسابرسی‌شده نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    },
+    {
+      "title": "ثبت دیجیتال ارزش",
+      "source": "rbc",
+      "definition": "حفظ منشأ و مسیر اعتبار و مشارکت",
+      "application": "دفترکل قابل ردیابی، مالکیت حساب و جلوگیری از مصرف دوباره",
+      "metric": "تطبیق دفترکل و اختلاف ثبت‌شده",
+      "limitation": "اعتبار خدماتی دارایی سرمایه‌گذاری یا توکن معامله‌شونده نیست.",
+      "status": "Proposed MARAZAWA interpretation; not independent academic validation"
+    }
+  ]
+}
